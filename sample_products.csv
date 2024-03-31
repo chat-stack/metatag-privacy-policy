@@ -1,0 +1,54 @@
+Handle,Title,Body (HTML),Vendor,Product Category,Type,Tags,Published,Option1 Name,Option1 Value,Option2 Name,Option2 Value,Option3 Name,Option3 Value,Variant SKU,Variant Grams,Variant Inventory Tracker,Variant Inventory Qty,Variant Inventory Policy,Variant Fulfillment Service,Variant Price,Variant Compare At Price,Variant Requires Shipping,Variant Taxable,Variant Barcode,Image Src,Image Position,Image Alt Text,Gift Card,SEO Title,SEO Description,Google Shopping / Google Product Category,Google Shopping / Gender,Google Shopping / Age Group,Google Shopping / MPN,Google Shopping / Condition,Google Shopping / Custom Product,Google Shopping / Custom Label 0,Google Shopping / Custom Label 1,Google Shopping / Custom Label 2,Google Shopping / Custom Label 3,Google Shopping / Custom Label 4,Variant Image,Variant Weight Unit,Variant Tax Code,Cost per item,Included / United States,Price / United States,Compare At Price / United States,Included / International,Price / International,Compare At Price / International,Status
+off-shoulder-wrap-long-sleeve-knit-top,Off Shoulder Wrap Long Sleeve Knit Top,"<div class=""product-details"" data-mce-fragment=""1"">
+<p class=""product-details-tittle"">Details</p>
+<ul class=""details-list font14"">
+<li>
+<span>Composition</span>:<span> </span><span>50% Polyester, 50% Acrylic</span>
+</li>
+<li>
+<span>Design</span>:<span> </span><span>Plain</span>
+</li>
+<li>
+<span>Style</span>:<span> </span><span>Casual, Elegant</span>
+</li>
+<li>
+<span>Thickness</span>:<span> </span><span>Regular</span>
+</li>
+<li>
+<span>Material</span>:<span> </span><span>Knit</span>
+</li>
+<li>
+<span>Occasion</span>:<span> </span><span>Leisure</span>
+</li>
+</ul>
+</div>",JCZ-Clothes,,"","",true,Title,Default Title,,,,,"",907.18474,shopify,10,deny,manual,38.00,,true,true,"",https://cdn.shopify.com/s/files/1/0639/1873/5543/files/ribbedknittop.webp?v=1711529074,1,"",false,,,,,,,,,,,,,,,lb,,,true,,,true,,,active
+ribbed-knit-long-sleeve-asymmetric-shirt,Ribbed Knit Long Sleeve Asymmetric Shirt,"<p class=""product-details-tittle"" data-mce-fragment=""1"">Details</p>
+<ul class=""details-list font14"" data-mce-fragment=""1"">
+<li data-mce-fragment=""1"">
+<span data-mce-fragment=""1"">Composition</span>:<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">92% Polyester, 8% Elastane</span>
+</li>
+<li data-mce-fragment=""1"">
+<span data-mce-fragment=""1"">Design</span>:<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Plain</span>
+</li>
+<li data-mce-fragment=""1"">
+<span data-mce-fragment=""1"">Style</span>:<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Casual, Elegant</span>
+</li>
+<li data-mce-fragment=""1"">
+<span data-mce-fragment=""1"">Thickness</span>:<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Regular</span>
+</li>
+<li data-mce-fragment=""1"">
+<span data-mce-fragment=""1"">Sheer</span>:<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">No</span>
+</li>
+<li data-mce-fragment=""1"">
+<span data-mce-fragment=""1"">Material</span>:<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Ribbed</span>
+</li>
+<li data-mce-fragment=""1"">
+<span data-mce-fragment=""1"">Sleeve Length</span>:<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Long Sleeve</span>
+</li>
+<li data-mce-fragment=""1"">
+<span data-mce-fragment=""1"">Neckline</span>:<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Asymmetrical Neck</span>
+</li>
+<li data-mce-fragment=""1"">
+<span data-mce-fragment=""1"">Occasion</span>:<span data-mce-fragment=""1""> </span><span data-mce-fragment=""1"">Leisure</span>
+</li>
+</ul>",JCZ-Clothes,,"","",true,Title,Default Title,,,,,"",907.18474,shopify,10,deny,manual,19.00,22.00,true,true,"",https://cdn.shopify.com/s/files/1/0639/1873/5543/files/longsleeveshirt.webp?v=1711529116,1,"",false,,,,,,,,,,,,,,,lb,,,true,,,true,,,active
